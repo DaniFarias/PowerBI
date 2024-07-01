@@ -1,0 +1,11 @@
+**Cria a variável na linguagem M:**
+
+let
+    Fonte = DateTimeZone.SwitchZone(DateTimeZone.LocalNow(),-3)
+in
+    Fonte
+
+---- /// ----
+
+**Cria a Medida em DAX:**
+Atualização = "Atualizado em: " & FORMAT(SELECTEDVALUE('Atualização'[Atualização]), "dd/mm/yy hh:mm")
