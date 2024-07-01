@@ -8,4 +8,5 @@ in
 ---- /// ----
 
 **Cria a Medida em DAX:**
+
 Atualização = "Atualizado em: " & FORMAT(SELECTEDVALUE('Atualização'[Atualização]), "dd/mm/yy hh:mm")
