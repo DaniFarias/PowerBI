@@ -23,7 +23,7 @@
     mesInicioAnoFiscal = 4, 
 
     /*Dia de início do mês de fechamento. 
-        Padrão: 16 (siginifica que o mês de fechamento vai de 16 do mês corrente 
+        Padrão: 16 siginifica que o mês de fechamento vai de 16 do mês corrente 
         até o dia 15 do próximo mês */
     diaInicioMesFechamento = 16, 
 
